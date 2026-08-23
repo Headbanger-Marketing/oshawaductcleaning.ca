@@ -1,2 +1,25 @@
 # Oshawa Duct Cleaning
-HVAC services in Ontario.
+
+> Oshawa Duct Cleaning is a local HVAC company serving Oshawa, Durham, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 721-3485  |  Email: contact@oshawaductcleaning.ca  |  Website: https://oshawaductcleaning.ca
+
+## Key pages
+
+- [Home](https://oshawaductcleaning.ca/): Oshawa Duct Cleaning homepage with service overview and FAQ
+- [About](https://oshawaductcleaning.ca/about/): About the company and service area
+- [Contact](https://oshawaductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://oshawaductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Oshawa, Ontario
+- [Dryer Vent Cleaning](https://oshawaductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Oshawa, Ontario
+- [Furnace & AC Cleaning](https://oshawaductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Oshawa, Ontario
+- [HRV & Ventilation Cleaning](https://oshawaductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Oshawa, Ontario
+- [Duct Sanitizing & Deodorizing](https://oshawaductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Oshawa, Ontario
+- [Duct Sealing & Repair](https://oshawaductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Oshawa, Ontario
+- [Commercial Duct Cleaning](https://oshawaductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Oshawa, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Oshawa are answered on the homepage.
